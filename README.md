@@ -29,3 +29,15 @@ o item com menor valor, vai ter prioridade maior que o item
 que apresenta um valor maior. Então numa **Fila Prioritária**
 o item com valor 5, por exemplo, vai ter menor prioridade em
 relação a um valor menor, como 3, por exemplo.
+
+## LinkedList (Lista ligada/encadeada)
+
+Lista Ligada é uma Estrutura de Dados linear que consiste
+em um grupo de **nós** em uma sequência. 
+
+Cada **nó** segura seu próprio dado e o **endereço do próximo
+dado**, ou seja, cada **nó** "sabe" quem é o seu próximo 
+formando uma "corrente".
+
+- Podemos adicionar elementos no final ou no começo da lista.
+- Podemos remover elementos do final e do começo da lista.
